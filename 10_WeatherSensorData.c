@@ -28,4 +28,5 @@ int main()
     }    
 
     printf("\nNegative = %d\nPositive =%d\nZero = %d",N,P,Z);
+    return 0;
 }
